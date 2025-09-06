@@ -39,7 +39,7 @@ var weight2 = 82.7;
 var totalWeight = weight2 + weight1;
 System.out.println( " общий вес боксёров " + totalWeight );
 var difference = weight1 - weight2;
-System.out.println( " разница между весами боксёров " + difference );
+System.out.println( " разница между весом боксёров " + difference );
 var remains = weight2 % weight1;
 System.out.println( " остаток от деления между двумя весами " + remains );
 var totalHours = 640;
